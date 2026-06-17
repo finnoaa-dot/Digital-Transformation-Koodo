@@ -30,11 +30,11 @@ I utilized “mixed methods” of qualitative and quantitative research approach
 Our research uncovered critical pain points in the current support experience, directly informing the design and development strategy.
 
 ### Research Statements & Goals 
-Understand customer needs and pain points with the current Koodo experience.      
-Discover user/former user needs and pain points with their current Koodo experience.      
-Understand what they expect and want out of an app or digital solution.      
-Understand what tasks consumers want to complete via a website, an app, in-person, or over the phone, and why they prefer the method.      
-What motivates them to come back to an app/solution?  
+- Understand customer needs and pain points with the current Koodo experience.      
+- Discover user/former user needs and pain points with their current Koodo experience.      
+- Understand what they expect and want out of an app or digital solution.      
+- Understand what tasks consumers want to complete via a website, an app, in-person, or over the phone, and why they prefer the method.      
+- What motivates them to come back to an app/solution?  
 
 ### Research Methodology
 Qualitative Survey: In-depth interviews with six current and former Koodo customers to understand their experiences, needs, and pain points.      
